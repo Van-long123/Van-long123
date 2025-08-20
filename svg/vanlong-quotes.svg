@@ -22,14 +22,14 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .vanlong-signature {
+        .signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
         <div class="quotes-eng">"Today is an opportunity to become a stronger version of yourself"</div>
-        <div class="vanlong-signature">- Phạm Văn Long -</div>
+        <div class="signature">- Phạm Văn Long -</div>
       </div>
 		</div>
 	</foreignObject>
