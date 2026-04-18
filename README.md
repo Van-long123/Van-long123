@@ -1,6 +1,6 @@
 <!-- vanlong -->
 <h1 align="center">Hi 👋, I'm Phạm Văn Long</h1>
-<h3 align="center">A passionate backend developer from VietNam</h3>
+<h3 align="center">A passionate web developer from VietNam</h3>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
